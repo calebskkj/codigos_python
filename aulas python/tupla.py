@@ -1,5 +1,5 @@
 objetos = ('lápis', 'borracha', 'caderno')
-print(objetos[1]) #Irei exibir o item na posição 1, ou seja segunda posição, pois a contagem começa do zero
+print(objetos[1]) #Irá exibir o item na posição 1, ou seja segunda posição, pois a contagem começa do zero
 
 print(type(objetos)) #irá mostrar o tipo da variável
 
